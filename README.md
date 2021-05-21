@@ -18,3 +18,7 @@ Projeto de vendas, com problema de regressão, que busca desenvolver ML para pre
 # ENEM
 
 Projeto com problema de regressão, o objetivo era prever as notas do ENEM considerando diversas características contidas no banco de dados, desde classe social a localização dos indivíduos.
+
+# Projeto Iris
+
+Projeto de estudo de classificação, onde se espera prever, através de ML, qual o tipo de flor a partir das características de comprimento e largura da flor.
